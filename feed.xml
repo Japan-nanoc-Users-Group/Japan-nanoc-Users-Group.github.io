@@ -1,0 +1,193 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+  <id>http://jnanoc.org/</id>
+  <title>日本nanocユーザ会</title>
+  <updated>2013-08-15T15:00:00Z</updated>
+  <link rel="alternate" href="http://jnanoc.org/"/>
+  <link rel="self" href="http://jnanoc.org/feed.xml"/>
+  <author>
+    <name>日本nanocユーザ会</name>
+    <uri>http://jnanoc.org/</uri>
+  </author>
+  <entry>
+    <id>tag:jnanoc.org,2013-08-16:/news/2013/08/osc_shimane_2013/</id>
+    <title type="html">OSC 2013 Shimane に参加します。</title>
+    <published>2013-08-15T15:00:00Z</published>
+    <updated>2013-08-15T15:00:00Z</updated>
+    <link rel="alternate" href="http://jnanoc.org/news/2013/08/osc_shimane_2013/"/>
+    <content type="html">&lt;p&gt;日本nanocユーザ会(以下、本会という)は&lt;a href="http://www.ospn.jp/osc2013-shimane/"&gt;オープンソースカンファレンス2013 Shimane&lt;/a&gt;(2013年8月24日開催)に参加します。皆様にお目にかかるのを楽しみにしています。&lt;/p&gt;
+</content>
+  </entry>
+  <entry>
+    <id>tag:jnanoc.org,2013-05-31:/news/2013/05/nanoc3-6-4_is_released/</id>
+    <title type="html">nanoc3.6.4がリリースされました</title>
+    <published>2013-05-30T15:00:00Z</published>
+    <updated>2013-05-30T15:00:00Z</updated>
+    <link rel="alternate" href="http://jnanoc.org/news/2013/05/nanoc3-6-4_is_released/"/>
+    <content type="html">&lt;p&gt;nanoc3.6.4がリリースされました。リリースの内容（原文）は公式のリリースノートを参照してください。&lt;/p&gt;
+
+&lt;p&gt;今回のリリースにより、autocompile と watch コマンドから guard の利用に移行したようです。&lt;/p&gt;
+
+&lt;h3 id="section"&gt;リリースノート引用&lt;/h3&gt;
+
+&lt;p&gt;（以下、引用）&lt;/p&gt;
+
+&lt;blockquote&gt;
+  &lt;p&gt;3.6.4 (2013-05-29)&lt;/p&gt;
+
+  &lt;p&gt;Enhancements:&lt;/p&gt;
+
+  &lt;ul&gt;
+    &lt;li&gt;Deprecated watch and autocompile commands in favour of guard-nanoc&lt;/li&gt;
+  &lt;/ul&gt;
+
+  &lt;p&gt;Fixes:&lt;/p&gt;
+
+  &lt;ul&gt;
+    &lt;li&gt;Fixed bug which could cause the tmp/ dir to blow up in size&lt;/li&gt;
+    &lt;li&gt;Unescaped URLs when checking internal links&lt;/li&gt;
+  &lt;/ul&gt;
+&lt;/blockquote&gt;
+
+&lt;p&gt;（引用おわり）&lt;/p&gt;
+</content>
+  </entry>
+  <entry>
+    <id>tag:jnanoc.org,2013-04-29:/news/2013/04/guard_nanoc_1_0_0_is_released/</id>
+    <title type="html">guard-nanoc(1.0.0)がRubygemsを利用してインストール出来るようになりました</title>
+    <published>2013-04-28T15:00:00Z</published>
+    <updated>2013-04-28T15:00:00Z</updated>
+    <link rel="alternate" href="http://jnanoc.org/news/2013/04/guard_nanoc_1_0_0_is_released/"/>
+    <content type="html">&lt;p&gt;　導入までのTipsを暫定運用中のWikiにアップしました。（&lt;a href="https://github.com/Japan-nanoc-Users-Group/ja-nanoc-site/wiki/guard-nanoc%E3%82%92%E5%88%A9%E7%94%A8%E3%81%99%E3%82%8B"&gt;こちらです。&lt;/a&gt;）&lt;/p&gt;
+
+&lt;p&gt;　引用元のMLは&lt;a href="https://groups.google.com/forum/#!msg/nanoc/bQ5wyZZHU8k/9LqAUh06KBoJ"&gt;こちら&lt;/a&gt;です。&lt;/p&gt;
+
+&lt;p&gt;　GitHub上のリポジトリは&lt;a href="https://github.com/guard/guard-nanoc"&gt;こちら&lt;/a&gt;です。&lt;/p&gt;
+
+&lt;p&gt;　Mac利用の際にはreadline関連にもお気をつけください。（&lt;a href="https://github.com/guard/guard/wiki/Add-proper-Readline-support-to-Ruby-on-Mac-OS-X"&gt;参考ページ&lt;/a&gt;）&lt;/p&gt;
+</content>
+  </entry>
+  <entry>
+    <id>tag:jnanoc.org,2013-04-25:/news/2013/04/nanoc3-6-3_is_released/</id>
+    <title type="html">nanoc3.6.3がリリースされました</title>
+    <published>2013-04-24T15:00:00Z</published>
+    <updated>2013-04-24T15:00:00Z</updated>
+    <link rel="alternate" href="http://jnanoc.org/news/2013/04/nanoc3-6-3_is_released/"/>
+    <content type="html">&lt;p&gt;nanoc3.6.3がリリースされました。リリースの内容（原文）は公式のリリースノートを参照してください。&lt;/p&gt;
+
+&lt;h3 id="section"&gt;リリースノート引用&lt;/h3&gt;
+
+&lt;p&gt;（以下、引用）&lt;/p&gt;
+
+&lt;blockquote&gt;
+  &lt;p&gt;3.6.3 (2013-04-24)&lt;/p&gt;
+
+  &lt;p&gt;Fixes:&lt;/p&gt;
+
+  &lt;ul&gt;
+    &lt;li&gt;Added support for growlnotify on Windows (#253, #267)&lt;/li&gt;
+    &lt;li&gt;Fixed bug which caused the external links checker to ignore the query string (#279, #297)&lt;/li&gt;
+    &lt;li&gt;Removed weird treatment of DOCTYPEs in the relativize_paths filter (#296)&lt;/li&gt;
+    &lt;li&gt;Fixed CodeRay syntax coloring on Ruby 2.0&lt;/li&gt;
+    &lt;li&gt;Silenced “Could not find files for the given pattern(s)” message on Windows (#298)&lt;/li&gt;
+    &lt;li&gt;Fixed issue which could cause output.diff not to be generated correctly (#255, #301)&lt;/li&gt;
+    &lt;li&gt;Let filesystem and static data sources follow symlinks (#299, #302)&lt;/li&gt;
+    &lt;li&gt;Added compatibility with Listen 1.0 (#309)&lt;/li&gt;
+    &lt;li&gt;Let #passthrough in Rules work well with the static data source (#251) [Gregory Pakosz]&lt;/li&gt;
+    &lt;li&gt;Made timing information be more accurate (#303)&lt;/li&gt;
+  &lt;/ul&gt;
+&lt;/blockquote&gt;
+
+&lt;p&gt;（引用おわり）&lt;/p&gt;
+</content>
+  </entry>
+  <entry>
+    <id>tag:jnanoc.org,2013-04-21:/news/2013/04/nanoc_stdu_group_vol_0/</id>
+    <title type="html">開催しました！「日本nanocユーザ会設立の集い ＆ 第0回nanoc勉強会」</title>
+    <published>2013-04-20T15:00:00Z</published>
+    <updated>2013-04-20T15:00:00Z</updated>
+    <link rel="alternate" href="http://jnanoc.org/news/2013/04/nanoc_stdu_group_vol_0/"/>
+    <content type="html">&lt;p&gt;平成25年4月6日、「日本nanocユーザ会設立の集い ＆ 第0回nanoc勉強会」を開催しました。&lt;/p&gt;
+
+&lt;p&gt;多数の皆様にご来場いただきました。ありがとうございます。
+また、発表者のお二人におかれましては、お忙しい中資料作成等のご準備・発表をいただきました。ありがとうございます。&lt;/p&gt;
+
+&lt;h3 id="section"&gt;会場の様子&lt;/h3&gt;
+
+&lt;p&gt;当日は26名の皆様にご参加いただきました。&lt;/p&gt;
+
+&lt;div style="margin:30px 0;"&gt;
+&lt;a class="thumbnail" href="http://www.flickr.com/photos/takashi_u/8646846014/" title="P4061151 by Takashi.U, on Flickr"&gt;&lt;img src="http://farm9.staticflickr.com/8394/8646846014_46bcdfdcef_z.jpg" width="640" height="480" alt="P4061151" /&gt;&lt;/a&gt;
+&lt;/div&gt;
+
+&lt;hr /&gt;
+
+&lt;h2 id="section-1"&gt;当日の発表について&lt;/h2&gt;
+
+&lt;p&gt;偶然にもご講演いただいた2名の方が同じ会社「ファーエンドテクノロジー株式会社」に所属していらっしゃいます。&lt;/p&gt;
+
+&lt;p&gt;下記の「ファーエンドテクノロジー株式会社」サイトにご紹介いただいております。
+&lt;a href="http://www.farend.co.jp/blog/2013/04/nanoc-study/" title="farend.co.jp"&gt;第0回nanoc勉強会で発表しました&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;内容は資料をご確認ください。
+（このページでも資料を掲載させていただいています。）&lt;/p&gt;
+
+&lt;h3 id="c-nanoc"&gt;「何なのc?」〜 nanocの基本概念の説明&lt;/h3&gt;
+
+&lt;p&gt;「何なのc?」&lt;br /&gt;
+ファーエンドテクノロジー株式会社&lt;br /&gt;
+取締役　岩石　睦　氏&lt;/p&gt;
+
+&lt;p&gt;nanocの基本的な事項についてご講演いただきました。 &lt;/p&gt;
+
+&lt;div style="margin:30px 0;"&gt;
+&lt;a class="thumbnail" href="http://www.flickr.com/photos/takashi_u/8645748221/" title="P4061150 by Takashi.U, on Flickr"&gt;&lt;img src="http://farm9.staticflickr.com/8529/8645748221_01f21c3041_z.jpg" width="640" height="480" alt="P4061150" /&gt;&lt;/a&gt;
+&lt;/div&gt;
+
+&lt;p&gt;資料についてはslideshareにアップしていただいてます。&lt;/p&gt;
+
+&lt;iframe src="http://www.slideshare.net/slideshow/embed_code/18284878" width="597" height="486" frameborder="0" marginwidth="0" marginheight="0" scrolling="no" style="border:1px solid #CCC;border-width:1px 1px 0;margin-bottom:5px" allowfullscreen="" webkitallowfullscreen="" mozallowfullscreen=""&gt; &lt;/iframe&gt;
+&lt;div style="margin-bottom:5px"&gt; &lt;strong&gt; &lt;a href="http://www.slideshare.net/amidaku/nanoc0th" title="何なのc？" target="_blank"&gt;何なのc？&lt;/a&gt; &lt;/strong&gt; from &lt;strong&gt;&lt;a href="http://www.slideshare.net/amidaku" target="_blank"&gt;Mutsumi IWAISHI&lt;/a&gt;&lt;/strong&gt; &lt;/div&gt;
+
+&lt;hr /&gt;
+
+&lt;h3 id="nanochelper--helperhelper"&gt;「nanocのhelper 利用実例」〜 組み込みhelperの利用例・helperの作り方&lt;/h3&gt;
+
+&lt;p&gt;「nanocのhelper 利用実例」&lt;br /&gt;
+ファーエンドテクノロジー株式会社&lt;br /&gt;
+代表取締役　前田　剛　氏  &lt;/p&gt;
+
+&lt;p&gt;helperの利用方法についてご講演いただきました。&lt;/p&gt;
+
+&lt;div style="margin:30px 0;"&gt;
+&lt;a class="thumbnail" href="http://www.flickr.com/photos/takashi_u/8645750549/" title="P4061152 by Takashi.U, on Flickr"&gt;&lt;img src="http://farm9.staticflickr.com/8251/8645750549_48789238a2_z.jpg" width="640" height="480" alt="P4061152" /&gt;&lt;/a&gt;
+&lt;/div&gt;
+
+&lt;p&gt;資料についてはslideshareにアップしていただいてます。&lt;/p&gt;
+
+&lt;iframe src="http://www.slideshare.net/slideshow/embed_code/18287470" width="597" height="486" frameborder="0" marginwidth="0" marginheight="0" scrolling="no" style="border:1px solid #CCC;border-width:1px 1px 0;margin-bottom:5px" allowfullscreen="" webkitallowfullscreen="" mozallowfullscreen=""&gt; &lt;/iframe&gt;
+&lt;div style="margin-bottom:5px"&gt; &lt;strong&gt; &lt;a href="http://www.slideshare.net/g_maeda/nanoc-helpers" title="nanocのhelper 利用実例" target="_blank"&gt;nanocのhelper 利用実例&lt;/a&gt; &lt;/strong&gt; from &lt;strong&gt;&lt;a href="http://www.slideshare.net/g_maeda" target="_blank"&gt;g_maeda&lt;/a&gt;&lt;/strong&gt; &lt;/div&gt;
+
+&lt;h3 id="section-2"&gt;勉強会を終えて&lt;/h3&gt;
+
+&lt;p&gt;日本語情報の拡充ということで、スライドも公開していただきました。ありがとうございます。
+世話役自身はとても勉強になり、早速発表時に教えていただいたtipsをこのサイトにも加えたりしております。&lt;/p&gt;
+
+&lt;p&gt;今後はTipsの整理等を行っていく予定です。また、島根で開催のオープンソースカンファレンス、徳島で開催のオープンソースカンファレンスへ出展か発表したいと目論んでおります。
+次回以降の勉強会については、開催前はやらない方向で考えておりましたが、考えを改めました。定期的にする事はありませんが、思案してみたいと思います。&lt;/p&gt;
+
+&lt;hr /&gt;
+
+&lt;h3 id="section-3"&gt;懇親会 ＆ その他&lt;/h3&gt;
+
+&lt;p&gt;懇親会にも10名を超える皆さんにお集まりいただきました。ありがとうございます。&lt;/p&gt;
+
+&lt;div style="margin:30px 0;"&gt;
+&lt;a class="thumbnail" href="http://www.flickr.com/photos/takashi_u/8646850386/" title="P4061155 by Takashi.U, on Flickr"&gt;&lt;img src="http://farm9.staticflickr.com/8119/8646850386_c1d2aa9087_z.jpg" width="640" height="480" alt="P4061155" /&gt;&lt;/a&gt;
+&lt;/div&gt;
+
+&lt;p&gt;写真は懇親会の時の様子です。
+&lt;a href="https://twitter.com/xaizo"&gt;@xaizo&lt;/a&gt;さんには実質的な幹事役として大変お世話になりました。ありがとうございました。&lt;/p&gt;
+</content>
+  </entry>
+</feed>
